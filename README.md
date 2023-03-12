@@ -6,4 +6,3 @@
 - 🌱 Programação Web
 - 😄 Ele/Dele
 - ⚡ Gosto de conversar sobre tudo
-
