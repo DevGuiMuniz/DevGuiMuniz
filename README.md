@@ -1,7 +1,7 @@
- ## Olá, eu sou o Guilherme Muniz
+ ## Seja bem vindo!
 
-
-
+ Olá, sou o Guilherme Muniz. Estou mergulhando na área de programação. Nesse perfil poderá encontrar projetos já desenvolvido por mim, acompanhando de pertinho minha trajetoria na carreira de programação! ^-^
+ 
 - 🔭 Aprendendo Front-end e Back-end
 - 🌱 Programação Web
 - 😄 Ele/Dele
