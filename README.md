@@ -2,7 +2,7 @@
 
  Olá, sou o Guilherme Muniz. Estou mergulhando na área de programação. Nesse perfil poderá encontrar projetos já desenvolvido por mim, acompanhando de pertinho minha trajetoria na carreira de programação! ^-^
  
-- 🔭 Aprendendo Front-end e Back-end
+- 🔭 Desenvolvedor Full Stack
 - 🌱 Programação Web
 - 😄 Ele/Dele
 - ⚡ Gosto de conversar sobre tudo
